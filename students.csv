@@ -1,0 +1,13 @@
+student_id,name,group,year,faculty,city
+1,Anna,A1,1,Physics,Kyiv
+2,Bohdan,A1,2,Physics,Lviv
+3,Iryna,B2,1,Math,Kyiv
+4,Oleh,B2,3,Math,Odesa
+5,Maria,C1,2,IT,Kharkiv
+6,Dmytro,C1,4,IT,Kyiv
+7,Olena,A2,1,Physics,Lviv
+8,Andrii,A2,2,Physics,Kyiv
+9,Natalia,B3,3,Math,Dnipr
+10,Yurii,C2,1,IT,Odesa
+11,Svitlana,C2,2,IT,Kyiv
+12,Petro,B3,4,Math,Lviv
